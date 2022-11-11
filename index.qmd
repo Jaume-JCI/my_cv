@@ -15,7 +15,7 @@ about:
     - text: Email
       url: "mailto:jau.m@hotmail.com"
     - text: CV
-      url: "cv.pdf"
+      url: "my_cv/docs/cv.pdf"
 comments: false
 ---
 ::: {.column-page}
