@@ -6,9 +6,6 @@ about:
   links:
     - text: LinkedIn
       url: "https://linkedin.com/in/jaume-amores-7b600849"
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/JaumeEire"
     - text: GitHub
       icon: github
       url: "https://github.com/Jaume-JCI"
